@@ -1,0 +1,26 @@
+Main Menu
+
+1.Bhakhari
+2.Roti
+3.Bajri ka Rotla
+4.Sev Tamator
+5.Masala Bhindi
+6.Rasadar Bataka
+7.Chana Masala
+8.Rajasthani Kadhi
+9.Dal
+10.Rice
+11.DalBati
+
+Desserts
+1.Aanguri Basundi
+2.Matho
+
+Bevarages
+1.Masala Chaas
+2.Plain Chaas
+
+Addatives
+1.Ghee
+2.Gud
+3.AAchar

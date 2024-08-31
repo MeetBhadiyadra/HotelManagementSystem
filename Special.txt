@@ -1,0 +1,50 @@
+SOUP
+
+1.Sweet Corn Tomato Soup
+2.Veg Manchow Soup
+
+STARTER
+
+1.Veg Manchurian Dry
+2.Veg Manchurian Aachari 
+3.Paneer Tikka
+4.Aloo Chutney Wala
+
+MAIN COURSE
+
+1.Paneer Makhanwala
+2.Veg Chatpata Masala
+3.Aloo Bhindi
+
+BAKED DISH
+
+1.Baked Macaroni with Pineapple
+2.Baked Macaroni without Pineapple
+
+SALAD/PAPAD/RAITA
+
+1.Green Salad
+2.Roasted Papad
+3.Veg Raita
+
+INDIAN BREADS
+
+1.Naan
+2.Roti
+3.Paratha
+4.Methi Paratha
+5.Stuff Paratha
+6.Butter Kulcha
+7.Onion Kulcha
+8.Pudhine Paratha
+9.DAL & RICE
+10.Dal Fry
+11.Jeera Rice
+12.Veg Biryani
+
+DESSERT
+
+1.Dark-Chocolate ice Cream 
+2.Oreo-Chocolate ice Cream 
+3.ButterScotch ice Cream 
+4.Choco-Chips ice Cream 

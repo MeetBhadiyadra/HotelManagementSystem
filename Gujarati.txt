@@ -1,0 +1,29 @@
+Main Menu
+
+1.Bhakhari
+2.Roti
+3.Paratha
+4.Paneer Tikka
+5.Masala Bhindi
+6.Rasadar Bataka
+7.Chana Masala
+8.Kadhi
+9.Dal
+10.Rice
+
+Farsan
+1.Khaman
+2.Patra
+
+Desserts
+1.Aanguri Basundi
+2.Matho
+
+Bevarages
+1.Masala Chaas
+2.Plain Chaas
+
+Addatives
+1.Ghee
+2.Gud
+3.AAchar

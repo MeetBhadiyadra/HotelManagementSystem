@@ -1,0 +1,19 @@
+Main Menu
+
+1.Naan
+2.Roti
+3.Paratha
+4.Paneer Tikka
+5.Masala Bhindi
+6.Vej.jaipuri
+7.Cheese Butter Masala
+8.Hydrabadi Biryani
+9.Dal Fry
+10.Jeera Rice
+
+Desserts
+1.Kheer
+2.Gulab Jamun
+
+Bevarages
+1.lassi
